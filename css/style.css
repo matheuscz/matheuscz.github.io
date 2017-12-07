@@ -159,7 +159,7 @@ body {
 }
 
 header.masthead {
-    text-align: right;
+    text-align: center;
     color: white;
     background-image: url("../img/header-2.jpg");
     background-repeat: no-repeat;
